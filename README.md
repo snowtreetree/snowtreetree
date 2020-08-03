@@ -2,19 +2,19 @@
 
 <br/>
 
-<a href="https://www.zhihu.com/people/goodgoodgod">
+<a href="https://www.zhihu.com/people/goodgoodgod" target="_blank">
   <img align="left" alt="青沛" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/zhihu.svg" />
 </a>
 
-<a href="https://github.com/snowtreetree">
+<a href="https://github.com/snowtreetree" target="_blank">
   <img align="left" alt="青沛" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" />
 </a>
 
-<a href="https://twitter.com/snowdoubletree">
+<a href="https://twitter.com/snowdoubletree" target="_blank">
   <img align="left" alt="青沛 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
-<a href="https://www.facebook.com/zhang.study">
+<a href="https://www.facebook.com/zhang.study" target="_blank">
   <img align="left" alt="青沛 | FaceBook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
