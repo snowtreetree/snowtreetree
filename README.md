@@ -21,14 +21,19 @@
 <br />
 
 
-<img align="right" alt="GIF" width="220px" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+  
+
+<img align="right" alt="GIF" width="200px" src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif">
+  
   
 **Talking about Personal Stuffs:**
 
 - 👨 I’m currently working on ...
 - 🌱 I’m currently learning Javascript
 
+
 ![my github stats](https://github-readme-stats.vercel.app/api?username=snowtreetree&show_icons=true&hide_border=true)
+
 
 <!--
 **snowtreetree/snowtreetree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -43,4 +48,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<img align="right" alt="GIF" height="100px" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 -->
