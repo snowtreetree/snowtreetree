@@ -1,4 +1,4 @@
-### Hey 👋🏽, I'm [snowtreetree](https://snowtreetree.github.io/)
+### Hey 👋 , I'm [snowtreetree](https://snowtreetree.github.io/)
 
 <br/>
 
